@@ -1,0 +1,1 @@
+# spring-boot-amqp-rest-embedded
